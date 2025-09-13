@@ -1,0 +1,387 @@
+{
+  "task": "regression",
+  "target": "listing_gain",
+  "categorical": {
+    "ipo_name": [
+      "Aditya Infotech Ltd",
+      "Aegis Vopak Terminals Limited",
+      "Ajax Engineering Limited",
+      "Anthem Biosciences Limited",
+      "Arisinfra Solutions Limited",
+      "Ather Energy Limited",
+      "Belrise Industries Limited",
+      "Borana Weaves Limited",
+      "Brigade Hotel Ventures Limited",
+      "Capital Infra Trust",
+      "Carraro India Limited",
+      "Concord Enviro Systems Limited",
+      "Crizac Limited",
+      "Dam Capital Advisors Limited",
+      "Denta Water & Infrastructure Limited",
+      "Dr Agarwal's Healthcare Limited",
+      "Ellenbarrie Industrial Gases Limited",
+      "GNG Electronics Limited",
+      "Globe Civil Projects Limited",
+      "HDB Financial Services Limited",
+      "Hexaware Technologies Limited",
+      "Indiqube Spaces Limited",
+      "Indo Farm Equipment Limited",
+      "Indogulf Cropsciences Limited",
+      "International Gemmological Institute (India) Limited",
+      "Inventurus Knowledge Solutions Limited",
+      "Kalpataru Limited",
+      "Laxmi Dental Limited",
+      "Laxmi India Finance Ltd",
+      "M & B Engineering Ltd",
+      "Mamata Machinery Limited",
+      "National Securities Depository Ltd (NSDL)",
+      "Oswal Pumps Limited",
+      "Prostarm Info Systems Limited",
+      "Quadrant Future Tek Limited",
+      "Quality Power Electronics Limited",
+      "Sambhv Steel Tubes Limited",
+      "Sanathan Textiles Limited",
+      "Schloss Bangalore Limited",
+      "Scoda Tubes Limited",
+      "Senores Pharmaceuticals Limited",
+      "Shanti Gold International Ltd",
+      "Smartworks Coworking Limited",
+      "Sri Lotus Developers & Realty Ltd",
+      "Stallion India Fluorochem Limited",
+      "Standard Glass Lining Technology Limited",
+      "Transrail Lighting Limited",
+      "Travel Food Services Limited",
+      "Unimech Aerospace and Manufacturing Limited",
+      "Ventive Hospitality Limited"
+    ]
+  },
+  "numeric_ranges": {
+    "issue_size_crores_": {
+      "min": 23.0,
+      "max": 27858.8,
+      "median": 592.0
+    },
+    "qib": {
+      "min": 0.0,
+      "max": 331.6,
+      "median": 13.72
+    },
+    "hni": {
+      "min": 0.0,
+      "max": 958.07,
+      "median": 13.2
+    },
+    "rii": {
+      "min": 0.0,
+      "max": 374.81,
+      "median": 5.12
+    },
+    "total": {
+      "min": 0.11,
+      "max": 326.49,
+      "median": 11.52
+    },
+    "offer_price": {
+      "min": 10.0,
+      "max": 2150.0,
+      "median": 258.0
+    },
+    "list_price": {
+      "min": 9.5,
+      "max": 2725.0,
+      "median": 293.0
+    },
+    "cmp_bse_": {
+      "min": 0.04,
+      "max": 15924.1,
+      "median": 298.35
+    },
+    "cmp_nse_": {
+      "min": 0.05,
+      "max": 15892.0,
+      "median": 303.2
+    },
+    "current_gains": {
+      "min": -99.93,
+      "max": 2523.67,
+      "median": 14.675
+    },
+    "unnamed_13": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_14": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_15": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_16": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_17": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_18": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_19": {
+      "min": NaN,
+      "max": NaN,
+      "median": NaN
+    },
+    "unnamed_20": {
+      "min": 2523.67,
+      "max": 2523.67,
+      "median": 2523.67
+    },
+    "date_year": {
+      "min": 2010.0,
+      "max": 2025.0,
+      "median": 2021.0
+    },
+    "date_month": {
+      "min": 1.0,
+      "max": 12.0,
+      "median": 8.0
+    },
+    "date_dow": {
+      "min": 0.0,
+      "max": 4.0,
+      "median": 2.0
+    },
+    "issue_size_crores__year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "issue_size_crores__month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "issue_size_crores__dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "qib_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "qib_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "qib_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "hni_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "hni_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "hni_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "rii_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "rii_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "rii_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "total_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "total_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "total_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "offer_price_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "offer_price_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "offer_price_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "list_price_year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "list_price_month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "list_price_dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "listing_gain_year": {
+      "min": 1969.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "listing_gain_month": {
+      "min": 1.0,
+      "max": 12.0,
+      "median": 1.0
+    },
+    "listing_gain_dow": {
+      "min": 2.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "cmp_bse__year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "cmp_bse__month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "cmp_bse__dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "cmp_nse__year": {
+      "min": 1970.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "cmp_nse__month": {
+      "min": 1.0,
+      "max": 1.0,
+      "median": 1.0
+    },
+    "cmp_nse__dow": {
+      "min": 3.0,
+      "max": 3.0,
+      "median": 3.0
+    },
+    "current_gains_year": {
+      "min": 1969.0,
+      "max": 1970.0,
+      "median": 1970.0
+    },
+    "current_gains_month": {
+      "min": 1.0,
+      "max": 12.0,
+      "median": 1.0
+    },
+    "current_gains_dow": {
+      "min": 2.0,
+      "max": 3.0,
+      "median": 3.0
+    }
+  },
+  "feature_order": [
+    "ipo_name",
+    "issue_size_crores_",
+    "qib",
+    "hni",
+    "rii",
+    "total",
+    "offer_price",
+    "list_price",
+    "cmp_bse_",
+    "cmp_nse_",
+    "current_gains",
+    "unnamed_13",
+    "unnamed_14",
+    "unnamed_15",
+    "unnamed_16",
+    "unnamed_17",
+    "unnamed_18",
+    "unnamed_19",
+    "unnamed_20",
+    "date_year",
+    "date_month",
+    "date_dow",
+    "issue_size_crores__year",
+    "issue_size_crores__month",
+    "issue_size_crores__dow",
+    "qib_year",
+    "qib_month",
+    "qib_dow",
+    "hni_year",
+    "hni_month",
+    "hni_dow",
+    "rii_year",
+    "rii_month",
+    "rii_dow",
+    "total_year",
+    "total_month",
+    "total_dow",
+    "offer_price_year",
+    "offer_price_month",
+    "offer_price_dow",
+    "list_price_year",
+    "list_price_month",
+    "list_price_dow",
+    "listing_gain_year",
+    "listing_gain_month",
+    "listing_gain_dow",
+    "cmp_bse__year",
+    "cmp_bse__month",
+    "cmp_bse__dow",
+    "cmp_nse__year",
+    "cmp_nse__month",
+    "cmp_nse__dow",
+    "current_gains_year",
+    "current_gains_month",
+    "current_gains_dow"
+  ]
+}
